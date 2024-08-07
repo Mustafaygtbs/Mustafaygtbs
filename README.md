@@ -5,13 +5,13 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mustafaygtbs?tab=repositories](https://github.com/Mustafaygtbs?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mustafaygtbs?tab=repositories)
 
 - 📫 How to reach me **mustafaygtbs@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-yi%C4%9Fitba%C5%9F%C4%B1/](https://www.linkedin.com/in/mustafa-yi%C4%9Fitba%C5%9F%C4%B1/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mustafa-yi%C4%9Fitba%C5%9F%C4%B1/)
 
-- My Kaggle profile [https://www.kaggle.com/jesuschrist00](https://www.kaggle.com/jesuschrist00)
+- My [Kaggle](https://www.kaggle.com/jesuschrist00) profile .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
