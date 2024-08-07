@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-yi%C4%9Fitba%C5%9F%C4%B1/](https://www.linkedin.com/in/mustafa-yi%C4%9Fitba%C5%9F%C4%B1/)
 
+- My Kaggle profile [https://www.kaggle.com/jesuschrist00](https://www.kaggle.com/jesuschrist00)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa-yiğitbaşı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-yiğitbaşı" height="30" width="40" /></a>
@@ -18,6 +20,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaygtbs&show_icons=true&locale=en&layout=compact" alt="mustafaygtbs" /></p>
+
 
 
