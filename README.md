@@ -1,4 +1,4 @@
-![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/08/How-to-Migrate-SQL-Server-in-an-ASP.NET-MVC-Application-to-MySQL-and-PostgreSQL.png)
+
 
 <h1 align="center">Hi , I'm Mustafa Yiğitbaşı</h1>
 <h3 align="center">I am a Computer Engineering student at Kocaeli University</h3>
